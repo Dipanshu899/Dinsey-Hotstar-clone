@@ -1,2 +1,2 @@
-# Dinsey-Hotstar-clone
+# Disney-Hotstar-clone
 #landing page of disney+hotstar
